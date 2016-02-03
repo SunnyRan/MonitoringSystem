@@ -1,0 +1,31 @@
+﻿body
+{
+}
+.testtable tr:nth-child(odd) td
+{
+    background-color: #f9f9f9;
+}
+.testtable tr:nth-child(even) td
+{
+    background-color: White;
+}
+.testtable tr:hover > td
+{
+    background-color: #E2EEFE;
+}
+#管理员
+{
+    background-color: #3CC531;
+    color: White;
+}
+#YES
+{
+    background-color: #3CC531;
+    color: White;
+}
+#电商
+{
+    background-color: #3CC531;
+    color: White;
+}
+
